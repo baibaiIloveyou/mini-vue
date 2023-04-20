@@ -75,4 +75,4 @@ watchFn(function foo() {
     console.log(obj.name)
 })
 
-obj.name = '1231'
+obj.name = '哈哈啊哈'
